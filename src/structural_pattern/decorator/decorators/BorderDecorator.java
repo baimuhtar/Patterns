@@ -1,6 +1,6 @@
-package structural_pattern.decorators;
+package structural_pattern.decorator.decorators;
 
-import structural_pattern.objects.Component;
+import structural_pattern.decorator.decorators.objects.Component;
 
 public class BorderDecorator extends Decorator{
 

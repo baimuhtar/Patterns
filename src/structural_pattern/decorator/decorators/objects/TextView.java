@@ -1,4 +1,4 @@
-package structural_pattern.objects;
+package structural_pattern.decorator.decorators.objects;
 
 public class TextView implements Component{
     @Override
