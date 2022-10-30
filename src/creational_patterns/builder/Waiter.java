@@ -11,5 +11,6 @@ public class Waiter {
         pizzaBuilder.createNewPizzaProduct();
         pizzaBuilder.buildDough();
         pizzaBuilder.buildSauce();
+        pizzaBuilder.buildMashroom();
     }
 }
