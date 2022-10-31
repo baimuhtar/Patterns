@@ -1,4 +1,4 @@
-package structural_pattern.decorator.decorators.objects;
+package structural_pattern.decorator.objects;
 
 public class Window implements Component{
     @Override

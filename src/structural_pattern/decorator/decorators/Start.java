@@ -1,8 +1,8 @@
 package structural_pattern.decorator.decorators;
 
-import structural_pattern.decorator.decorators.objects.Component;
-import structural_pattern.decorator.decorators.objects.TextView;
-import structural_pattern.decorator.decorators.objects.Window;
+import structural_pattern.decorator.objects.Component;
+import structural_pattern.decorator.objects.TextView;
+import structural_pattern.decorator.objects.Window;
 
 public class Start {
     private static Component window;

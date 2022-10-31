@@ -1,6 +1,6 @@
 package structural_pattern.decorator.decorators;
 
-import structural_pattern.decorator.decorators.objects.Component;
+import structural_pattern.decorator.objects.Component;
 
 public abstract class Decorator implements Component {
     protected Component component;
