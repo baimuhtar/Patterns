@@ -1,7 +1,4 @@
-package behavioral_patterns;
-
-import java.util.ArrayList;
-import java.util.List;
+package behavioral_patterns.observer;
 
 public class Start {
     public static void main(String[] args) {

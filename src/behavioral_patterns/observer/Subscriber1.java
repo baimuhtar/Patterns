@@ -1,4 +1,4 @@
-package behavioral_patterns;
+package behavioral_patterns.observer;
 
 public class Subscriber1 implements PublisherActionListener{
     @Override
