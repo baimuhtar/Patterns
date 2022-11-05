@@ -1,6 +1,6 @@
-package structural_patterns.adapter.adapter;
+package structural_patterns.adapter.example1.adapter;
 
-import structural_patterns.adapter.objects.Printer;
+import structural_patterns.adapter.example1.objects.Printer;
 
 import java.util.List;
 

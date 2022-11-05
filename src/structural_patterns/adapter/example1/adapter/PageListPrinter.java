@@ -1,4 +1,4 @@
-package structural_patterns.adapter.adapter;
+package structural_patterns.adapter.example1.adapter;
 
 import java.util.List;
 // интерфейс для печати списка
