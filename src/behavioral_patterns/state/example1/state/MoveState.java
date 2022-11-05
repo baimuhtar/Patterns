@@ -1,4 +1,4 @@
-package behavioral_patterns.state.state;
+package behavioral_patterns.state.example1.state;
 
 public class MoveState implements TransformerState{
     @Override

@@ -1,9 +1,9 @@
-package behavioral_patterns.state.start;
+package behavioral_patterns.state.example1.start;
 
-import behavioral_patterns.state.context.TransformerContext;
-import behavioral_patterns.state.state.FireState;
-import behavioral_patterns.state.state.MoveState;
-import behavioral_patterns.state.state.TransformerState;
+import behavioral_patterns.state.example1.context.TransformerContext;
+import behavioral_patterns.state.example1.state.FireState;
+import behavioral_patterns.state.example1.state.MoveState;
+import behavioral_patterns.state.example1.state.TransformerState;
 
 public class Start {
     public static void main(String[] args) {

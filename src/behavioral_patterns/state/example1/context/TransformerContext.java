@@ -1,6 +1,6 @@
-package behavioral_patterns.state.context;
+package behavioral_patterns.state.example1.context;
 
-import behavioral_patterns.state.state.TransformerState;
+import behavioral_patterns.state.example1.state.TransformerState;
 
 public class TransformerContext implements TransformerState {
 
