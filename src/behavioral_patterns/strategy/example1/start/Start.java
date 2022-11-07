@@ -1,8 +1,8 @@
-package behavioral_patterns.strategy.start;
+package behavioral_patterns.strategy.example1.start;
 
-import behavioral_patterns.strategy.auth.UserChecker;
-import behavioral_patterns.strategy.strategy.DBAuth;
-import behavioral_patterns.strategy.strategy.FileAuth;
+import behavioral_patterns.strategy.example1.auth.UserChecker;
+import behavioral_patterns.strategy.example1.strategy.DBAuth;
+import behavioral_patterns.strategy.example1.strategy.FileAuth;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package behavioral_patterns.strategy.strategy;
+package behavioral_patterns.strategy.example1.strategy;
 
 import java.io.File;
 

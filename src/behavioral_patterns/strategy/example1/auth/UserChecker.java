@@ -1,6 +1,6 @@
-package behavioral_patterns.strategy.auth;
+package behavioral_patterns.strategy.example1.auth;
 
-import behavioral_patterns.strategy.strategy.AuthStrategy;
+import behavioral_patterns.strategy.example1.strategy.AuthStrategy;
 
 public class UserChecker {
     private String name;

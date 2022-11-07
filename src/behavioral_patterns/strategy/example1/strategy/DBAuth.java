@@ -1,4 +1,4 @@
-package behavioral_patterns.strategy.strategy;
+package behavioral_patterns.strategy.example1.strategy;
 
 public class DBAuth implements AuthStrategy {
 
