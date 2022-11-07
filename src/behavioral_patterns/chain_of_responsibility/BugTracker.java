@@ -1,4 +1,4 @@
-package behavioral_patterns.chainOfResponsibility;
+package behavioral_patterns.chain_of_responsibility;
 
 public class BugTracker {
     public static void main(String[] args) {

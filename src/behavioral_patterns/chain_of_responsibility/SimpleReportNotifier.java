@@ -1,4 +1,4 @@
-package behavioral_patterns.chainOfResponsibility;
+package behavioral_patterns.chain_of_responsibility;
 
 public class SimpleReportNotifier extends Notifier{
     public SimpleReportNotifier(int priority) {

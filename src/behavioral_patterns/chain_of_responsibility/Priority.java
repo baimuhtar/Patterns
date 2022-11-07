@@ -1,4 +1,4 @@
-package behavioral_patterns.chainOfResponsibility;
+package behavioral_patterns.chain_of_responsibility;
 
 public class Priority {
     public static final int ROUTINE = 1;
